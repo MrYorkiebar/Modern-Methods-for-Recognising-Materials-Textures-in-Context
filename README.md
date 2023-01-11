@@ -8,3 +8,4 @@ In this paper, we evaluate modern architectures and explore alternative training
 
 ## Donwload link for the models
 Here are the weights for the best performing epoch for each model trained. It is around 1.71GB total but indiviudal weights can be downloaded.
+https://drive.google.com/drive/folders/1Cb2aeqfwKLgBtX0-cmCmix8hOHBR_aOR?usp=sharing
